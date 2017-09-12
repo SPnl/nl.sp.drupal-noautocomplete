@@ -1,7 +1,6 @@
 {
   "name": "SPnl/nl.sp.drupal-noautocomplete",
   "description": "Custom hack to prevent autocomplete on webform.",
-  "version": "1.0.0",
   "type": "drupal-module",
   "authors": [
     {
