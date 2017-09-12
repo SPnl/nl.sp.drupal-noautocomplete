@@ -1,0 +1,7 @@
+<?php
+
+function noautocomplete_form_alter(&$form, &$form_state, $form_id) {
+	if ($form_id === 'webform_client_form_379') {
+		$form['#attributes']['autocomplete'] = 'off';
+	}
+}

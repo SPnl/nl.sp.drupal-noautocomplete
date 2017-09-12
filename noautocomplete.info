@@ -1,0 +1,4 @@
+name = No autocomplete
+description = Custom hack to prevent autocomplete on webform.
+core = 7.x
+package = sprbs
